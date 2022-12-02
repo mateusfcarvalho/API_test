@@ -7,7 +7,14 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/mateusfcarvalho/API_test)
 
 </div>
+# Execução
+* Para executar o código, será necessário a instalação do karate 
+> Instalação para MacOs
 
+```sh
+brew install karate 
+```
+Após rodar os testes, abrir a pasta target/karate-reports/res e abrir no navegador o arquivo karate-summary.html
 # Execução
 > Para executar é necessário rodar a aplicação https://github.com/S204-Inatel-2022-2/python-academic-subscription 
 ![](header.png)
